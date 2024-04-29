@@ -7,7 +7,7 @@ import copy
 pygame.init()
 
 #setup game variables
-WIDTH = 500
+WIDTH = 600
 HEIGHT = 550
 screen = pygame.display.set_mode([WIDTH, HEIGHT])
 pygame.display.set_caption("Water Sort Puzzle Game")
